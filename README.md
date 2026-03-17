@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Budgeting Web App (Next.js + Prisma + Auth.js)
 
 A personal finance tracker / budgeting MVP built with:
@@ -73,7 +72,3 @@ If port 3000 is already in use, Next.js will automatically try the next free por
 - Analytics (pie + bar charts)
 - Budget progress + warnings
 - Toast notifications via Sonner
-=======
-# Budgeting Web App
-
->>>>>>> bb6f240 (Initial commit)
