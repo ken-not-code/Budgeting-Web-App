@@ -86,7 +86,7 @@ A full-stack personal finance management application with budgeting, savings tra
    Navigate to http://localhost:3000
 
 ### Windows Quick Start
-Double-click `start.ps1` or `run.bat` to automatically install dependencies and start the server.
+Double-click `run.bat` to automatically install dependencies and start the server.
 
 ## Project Structure
 
