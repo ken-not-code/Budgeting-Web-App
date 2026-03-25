@@ -1,0 +1,9 @@
+name = "budgeting-app"
+pages_build_output_dir = ".vercel/output/static"
+compatibility_date = "2024-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "budgeting-app-db"
+database_id = "c3fe6974-f163-4b25-a698-bcbdf92e2754"
+
